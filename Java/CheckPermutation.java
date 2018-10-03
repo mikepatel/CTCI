@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Notes:
  * 	- strings of different lengths cannot possibly be permutations of each other
  * 	- sort both strings -> permutation strings will be identical
- * 
+ *  - permutation = rearrangement of letters
  */
 
 public class CheckPermutation {

@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Output: boolean
  * 
  * 
- * Time: O(n)
+ * Time: O(n) where n is length of string
  * Space: O(n)
  */
 
